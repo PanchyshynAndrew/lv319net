@@ -1,10 +1,3 @@
-#carouselOffers {
-    height: 500px;
-}
-
-#carouselOffers img {
-    max-height: 450px;
-}
 
 .intro {
     max-width: 400px;
@@ -26,3 +19,5 @@
 .btn {
     padding: 0.75rem 0.7rem;
 }
+
+
